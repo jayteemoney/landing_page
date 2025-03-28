@@ -3,8 +3,8 @@ import './Brand.css'
 
 const Brand = () => {
   return (
-    <div>
-      Brand
+    <div className='gpt3__'>
+      
     </div>
   )
 }
